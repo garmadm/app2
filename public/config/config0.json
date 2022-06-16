@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x71a823Be35de495b19EAF710A02c7E2fa7839F78",
+  "SCAN_LINK": "https://polygonscan.com/address/0x71a823Be35de495b19EAF710A02c7E2fa7839F78",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 137
+  },
+  "NFT_NAME": "goblinpet$.wtf",
+  "SYMBOL": "GBPs",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0.0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "SHOW_BACKGROUND": true
+}
