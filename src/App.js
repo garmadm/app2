@@ -6,7 +6,7 @@ import * as s from "./styles/globalStyles";
 import styled from "styled-components";
 
 
-var freemint = 3000;
+var freemint = 10;
 
 
 
