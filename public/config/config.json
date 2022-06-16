@@ -1,10 +1,10 @@
 {
-  "CONTRACT_ADDRESS": "0xF9195B375B1E2323B9e3e008B56b226009AF7868",
-  "SCAN_LINK": "https://polygonscan.com/address/0xF9195B375B1E2323B9e3e008B56b226009AF7868",
+  "CONTRACT_ADDRESS": "0x514aeE1b74BA161CF84fE67F64040431BcE7451e",
+  "SCAN_LINK": "https://etherscan.io/address/0x514aeE1b74BA161CF84fE67F64040431BcE7451e",
   "NETWORK": {
     "NAME": "Ethereum",
     "SYMBOL": "ETH",
-    "ID": 137
+    "ID": 1
   },
   "NFT_NAME": "goblinpet$.wtf",
   "SYMBOL": "GBPs",
